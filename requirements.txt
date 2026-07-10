@@ -1,11 +1,4 @@
- pip list
- streamlit
+streamlit
 transformers
-torch
-opencv-python
-pillow
-pandas
-plotly
-reportlab
-sentencepiece
-accelerate 
+torch --find-links https://download.pytorch.org/whl/cpu
+python-dotenv
