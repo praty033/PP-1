@@ -2,3 +2,4 @@ streamlit
 transformers
 torch --find-links https://download.pytorch.org/whl/cpu
 python-dotenv
+plotly
